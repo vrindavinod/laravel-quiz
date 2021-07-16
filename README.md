@@ -8,8 +8,8 @@ create students and quiz and questions and assign tests and view results in Admi
 login as student to attend the alloted tests with timer
 
 Enjoy
-Dont forget
+Dont forget:
 serve php artisan and npm run watch
 
 
-project is in master branch
+Project is in master branch
