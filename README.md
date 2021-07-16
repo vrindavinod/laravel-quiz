@@ -10,3 +10,6 @@ login as student to attend the alloted tests with timer
 Enjoy
 Dont forget
 serve php artisan and npm run watch
+
+
+project is in master branch
